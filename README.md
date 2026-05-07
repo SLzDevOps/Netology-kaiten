@@ -6,19 +6,8 @@
 
 ### Скриншоты 
 
-![alt text](https://github.com/SLzDevOps/netology-ansible-02/blob/main/Screenshot_778.png).
-![alt text](https://github.com/SLzDevOps/netology-ansible-02/blob/main/Screenshot_779.png).
-![alt text](https://github.com/SLzDevOps/netology-ansible-02/blob/main/Screenshot_780.png).
-![alt text](https://github.com/SLzDevOps/netology-ansible-02/blob/main/Screenshot_778.png).
-![alt text](https://github.com/SLzDevOps/netology-ansible-02/blob/main/Screenshot_779.png).
-![alt text](https://github.com/SLzDevOps/netology-ansible-02/blob/main/Screenshot_780.png).
-![alt text](https://github.com/SLzDevOps/netology-ansible-02/blob/main/Screenshot_778.png).
-![alt text](https://github.com/SLzDevOps/netology-ansible-02/blob/main/Screenshot_779.png).
-![alt text](https://github.com/SLzDevOps/netology-ansible-02/blob/main/Screenshot_780.png).
-![alt text](https://github.com/SLzDevOps/netology-ansible-02/blob/main/Screenshot_778.png).
-![alt text](https://github.com/SLzDevOps/netology-ansible-02/blob/main/Screenshot_779.png).
-![alt text](https://github.com/SLzDevOps/netology-ansible-02/blob/main/Screenshot_780.png).
-![alt text](https://github.com/SLzDevOps/netology-ansible-02/blob/main/Screenshot_778.png).
-![alt text](https://github.com/SLzDevOps/netology-ansible-02/blob/main/Screenshot_779.png).
-![alt text](https://github.com/SLzDevOps/netology-ansible-02/blob/main/Screenshot_780.png).
-
+![alt text](https://github.com/SLzDevOps/Netology-kaiten/blob/main/Screenshot_811.png).
+![alt text](https://github.com/SLzDevOps/Netology-kaiten/blob/main/Screenshot_812.png).
+![alt text](https://github.com/SLzDevOps/Netology-kaiten/blob/main/Screenshot_813.png).
+![alt text](https://github.com/SLzDevOps/Netology-kaiten/blob/main/Screenshot_814.png).
+![alt text](https://github.com/SLzDevOps/Netology-kaiten/blob/main/Screenshot_815.png).
